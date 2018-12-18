@@ -1,0 +1,7 @@
+{
+// window下终端路径
+"terminal": "E:\\tools/cmder/cmder/Cmder.exe",
+// window下终端参数
+"parameters": ["/START", "%CWD%"]
+}
+

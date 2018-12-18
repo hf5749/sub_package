@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"BracketHighlighter"
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"Package Control",
+		"SyncedSideBar",
+		"SyncedSidebarBg",
+		"Terminal",
+		"TrailingSpaces",
+		"Vue Syntax Highlight",
+		"Vuejs Complete Package"
+	]
+}
